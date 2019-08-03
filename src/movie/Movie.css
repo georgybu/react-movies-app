@@ -1,0 +1,34 @@
+.movie-background {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: auto;
+    background-size: cover;
+    background-position: center center;
+    z-index: -1;
+    opacity: 0.6;
+    filter: blur(3px);
+}
+
+.movie-poster {
+    float: left;
+    height: 200px;
+}
+
+.movie-description {
+    font-size: 24px;
+    text-shadow: 1px 1px 1px white;
+    font-weight: bold;
+}
+
+li.genre {
+    list-style: none;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 4px;
+    background-color: white;
+    padding: 4px;
+}

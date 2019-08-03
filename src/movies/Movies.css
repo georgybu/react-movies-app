@@ -1,0 +1,29 @@
+.movie-image {
+    float: left;
+    height: 100px;
+    margin: 0 8px;
+}
+
+.movie-title {
+    font-size: 24px;
+}
+
+.movie-overview {
+    display: block;
+    font-size: 18px;
+}
+
+ul.movies-list {
+    margin: 0;
+    padding: 0;
+}
+
+ul.movies-list li {
+    height: 100px;
+    margin: 10px;
+    padding: 8px 0;
+    border: 1px solid lightgray;
+    background-color: whitesmoke;
+    border-radius: 4px;
+}
+

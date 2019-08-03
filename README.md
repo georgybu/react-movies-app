@@ -1,3 +1,23 @@
+# Movies app
+
+This app created for demonstrated some core features of reactjs
+
+- function components
+- react-fragments (empty tag / React.fragment)
+- nested conditional rendering
+- state hook
+- effect hook
+- react router + master/details via router params
+- some es features:
+    - async/await 
+    - arrow fn 
+    - object short names
+    - destructor
+    - string interpolation
+    - fetch api
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
